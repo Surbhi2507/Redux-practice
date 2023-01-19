@@ -1,4 +1,4 @@
-import { data_type } from "./type"
+import { data_type } from "../type"
 
 const intialState= {
     name:"",
